@@ -8,3 +8,13 @@ C:\Users\Storm\source\repos\ForexTest\ForexTest\obj\Debug\ForexTest.csproj.CoreC
 C:\Users\Storm\source\repos\ForexTest\ForexTest\obj\Debug\ForexTest.exe
 C:\Users\Storm\source\repos\ForexTest\ForexTest\obj\Debug\ForexTest.pdb
 C:\Users\Storm\source\repos\ForexTest\ForexTest\obj\Debug\ForexTest.ForexCap.resources
+D:\Программирование\ForexFantom\ForexFantom\ForexTest\bin\Debug\ForexTest.exe.config
+D:\Программирование\ForexFantom\ForexFantom\ForexTest\bin\Debug\ForexTest.exe
+D:\Программирование\ForexFantom\ForexFantom\ForexTest\bin\Debug\ForexTest.pdb
+D:\Программирование\ForexFantom\ForexFantom\ForexTest\obj\Debug\ForexTest.csprojAssemblyReference.cache
+D:\Программирование\ForexFantom\ForexFantom\ForexTest\obj\Debug\ForexTest.ForexCap.resources
+D:\Программирование\ForexFantom\ForexFantom\ForexTest\obj\Debug\ForexTest.Properties.Resources.resources
+D:\Программирование\ForexFantom\ForexFantom\ForexTest\obj\Debug\ForexTest.csproj.GenerateResource.cache
+D:\Программирование\ForexFantom\ForexFantom\ForexTest\obj\Debug\ForexTest.csproj.CoreCompileInputs.cache
+D:\Программирование\ForexFantom\ForexFantom\ForexTest\obj\Debug\ForexTest.exe
+D:\Программирование\ForexFantom\ForexFantom\ForexTest\obj\Debug\ForexTest.pdb
