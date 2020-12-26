@@ -1,0 +1,10 @@
+C:\Users\Storm\source\repos\ForexTest\ForexTest\bin\Debug\ForexTest.exe.config
+C:\Users\Storm\source\repos\ForexTest\ForexTest\bin\Debug\ForexTest.exe
+C:\Users\Storm\source\repos\ForexTest\ForexTest\bin\Debug\ForexTest.pdb
+C:\Users\Storm\source\repos\ForexTest\ForexTest\obj\Debug\ForexTest.csprojAssemblyReference.cache
+C:\Users\Storm\source\repos\ForexTest\ForexTest\obj\Debug\ForexTest.Properties.Resources.resources
+C:\Users\Storm\source\repos\ForexTest\ForexTest\obj\Debug\ForexTest.csproj.GenerateResource.cache
+C:\Users\Storm\source\repos\ForexTest\ForexTest\obj\Debug\ForexTest.csproj.CoreCompileInputs.cache
+C:\Users\Storm\source\repos\ForexTest\ForexTest\obj\Debug\ForexTest.exe
+C:\Users\Storm\source\repos\ForexTest\ForexTest\obj\Debug\ForexTest.pdb
+C:\Users\Storm\source\repos\ForexTest\ForexTest\obj\Debug\ForexTest.ForexCap.resources
